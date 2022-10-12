@@ -1,0 +1,47 @@
+/*common start*/
+body{
+	font-family: 'poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+}
+/*common end*/
+
+/*header start*/
+header{
+	background-color: #F0FFF0;
+	padding: 30px 0;
+}
+	.c_nav{}
+	.logo{
+		width: 195px;
+	}
+	.menu ul li a{
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 24px;
+		color: #000000 !important;
+		padding: 0 25px !important; 
+	}
+	.menu ul li a:hover {
+		color: #FD511A !important;
+	}
+	.btn_common{
+		font-family: 'Roboto', sans-serif;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 19px;
+		color: #FFFFFF;
+		background-color: #21B573;
+		border-radius: 33px;
+	}
+	.btn_header{
+		margin-left: 5px;
+		width: 105px;
+		height:45pz ;
+		padding: 12px 25px;
+	}
+	.btn_common:hover {
+		background-color: #FD511A;
+	}
+/*header end*/
